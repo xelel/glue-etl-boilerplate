@@ -1,0 +1,10 @@
+{
+  "python.formatting.provider": "none",
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.pipenvPath": "/home/glue_user/workspace/aws-glue-etl-local"
+}
